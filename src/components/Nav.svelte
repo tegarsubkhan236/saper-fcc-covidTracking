@@ -38,6 +38,7 @@
 				href="/about"
 				class="navbar-item"
 				class:is-active={segment === 'about'}>About</a>
+			<!-- {segment} -->
 		</div>
 	</div>
 </nav>
